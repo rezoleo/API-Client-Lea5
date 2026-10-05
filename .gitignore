@@ -1,0 +1,7 @@
+.venv
+
+# VSCode
+.vscode/settings.json
+
+# Python pycache
+**/__pycache__
